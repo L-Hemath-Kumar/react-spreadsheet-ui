@@ -5,7 +5,7 @@ This is a static front-end spreadsheet-like prototype built using **React 18**, 
 
 ## 🚀 Live Demo
 
-🌐 [View the live app here](https://your-live-url.vercel.app)
+🌐 [View the live app here](https://react-spreadsheet-ui-ruby.vercel.app/)
 
 ## 🛠️ Tech Stack
 
